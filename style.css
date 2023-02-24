@@ -426,6 +426,7 @@
     border: none;
     border-radius: 5px;
     transition: all 200ms;
+    padding: 1px 6px;
   }
   .navigation__toggle--opened {
     transform: translateY(295px);
