@@ -30,6 +30,14 @@ const ProjectsList = [{
     linkOpen: 'https://dvzhuk.github.io/draw-editor/',
     linkGitHub: 'https://github.com/DVZhuk/draw-editor',
 }, {
+    projectName: 'Конструктор калькулятора',
+    projectDescription: '\u2022 HTML \u2022 CSS \u2022 JS \u2022 React \u2022 React-DnD',
+    projectExtraDescription: `Проект позволяет собрать из блоков рабочий калькулятор. 
+    Помимо React в данной работе использовалась библиотека react-dnd для реализации Drag’n’Drop функционала.`,
+    imgSrc: 'source/calculator.jpg',
+    linkOpen: 'https://dvzhuk.github.io/calculator_react/',
+    linkGitHub: 'https://github.com/DVZhuk/calculator_react',
+}, {
     projectName: 'Свайпер',
     projectDescription: '\u2022 HTML \u2022 CSS \u2022 JS \u2022 Адаптивная вёрстка \r\n \u2022 Применение концепции ООП',
     projectExtraDescription: `Наглядная демонстрация умения создавать на JS
