@@ -55,7 +55,7 @@ const ProjectsList = [{
     imgSrc: 'source/sort.jpg',
     linkOpen: 'https://dvzhuk.github.io/sorting_algorithms/',
     linkGitHub: 'https://github.com/DVZhuk/sorting_algorithms',
-}];
+},];
 
 const elemsProjectName = document.querySelectorAll('.project-title');
 const elemsProjectDescription = document.querySelectorAll('.project-description');
